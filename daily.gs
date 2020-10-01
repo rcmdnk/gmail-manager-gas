@@ -1,3 +1,4 @@
+// Move mails received more than equal a week before in *Temp* labels
 function cleanUp() {
   var delayDays = 7 // Enter # of days before messages are moved to trash
   var maxDate = new Date();
