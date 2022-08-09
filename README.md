@@ -1,5 +1,5 @@
 # gmail-manager-gas
-Gmail management tools by Google App Script
+Gmail management tools by Google Apps Script
 
 
 * [Gmailでのラベル設定](https://rcmdnk.com/blog/2014/04/09/computer-gmail/)
